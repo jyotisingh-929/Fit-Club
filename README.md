@@ -1,3 +1,5 @@
+![Fit-Club-SnapShot_page-1](https://github.com/jyotisingh-929/Fit-Club/assets/138880101/b7b49504-0dbb-4bc2-ad9f-0c58f1bdd345)
+![Fit-Club-SnapShot_page-2](https://github.com/jyotisingh-929/Fit-Club/assets/138880101/c24e76f3-b5cf-4241-b1ea-9383fccbf00c)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -7,6 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
