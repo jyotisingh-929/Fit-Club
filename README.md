@@ -1,73 +1,18 @@
-![Fit-Club-SnapShot_page-1](https://github.com/jyotisingh-929/Fit-Club/assets/138880101/b7b49504-0dbb-4bc2-ad9f-0c58f1bdd345)
-![Fit-Club-SnapShot_page-2](https://github.com/jyotisingh-929/Fit-Club/assets/138880101/c24e76f3-b5cf-4241-b1ea-9383fccbf00c)
-# Getting Started with Create React App
+Fit Club Website:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains the codebase for a modern and stylish fitness club website built using React.js. The website offers a range of features including program exploration, testimonials, membership options, and more. It is designed to provide users with an engaging experience while promoting the services and offerings of the fitness club.
 
-## Available Scripts
+Technologies Used:
 
-In the project directory, you can run:
+React.js: The website is built using React.js, a popular JavaScript library for building user interfaces.
+Framer Motion: Framer Motion is used for smooth animations and transitions, enhancing the overall user experience.
+EmailJS: Integration with EmailJS enables seamless email communication for membership sign-ups and inquiries.
 
-### `npm start`
+How to Run:
 
+Clone the repository: git clone https://github.com/jyotisingh-929/Fit-Club
+Install dependencies: npm install
+Run the development server: npm start
+Open the website in your browser: http://localhost:3000
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Fit-Club](https://github.com/jyotisingh-929/Fit-Club/assets/138880101/f168097f-ae45-4c5c-ac9a-c3a1f2c56bb8)
